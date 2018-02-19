@@ -29,7 +29,6 @@ var bindings = {
 	"toggleOrderedList": toggleOrderedList,
 	"toggleUnorderedList": toggleUnorderedList,
 	"toggleCodeBlock": toggleCodeBlock,
-	"togglePreview": togglePreview,
 	"toggleStrikethrough": toggleStrikethrough,
 	"toggleHeading1": toggleHeading1,
 	"toggleHeading2": toggleHeading2,
